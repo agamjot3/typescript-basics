@@ -1,0 +1,12 @@
+"use strict";
+exports.__esModule = true;
+var a = 'hello';
+console.log(a);
+var x = 10;
+var y = 20;
+var sum;
+var title = 'TypeScript Tutorial';
+var isBeginner = true;
+var total = 10;
+var name = 'Vishwas';
+var sentence = "My name is " + name;
