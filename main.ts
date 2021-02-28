@@ -109,3 +109,9 @@ class Employee {
 let emp1 = new Employee('Vishwas');
 console.log(emp1.employeeName);
 emp1.greet();
+
+
+class Manager extends Employee{
+
+}
+
